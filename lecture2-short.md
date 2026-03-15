@@ -21,7 +21,7 @@
 | **Level 4** | **Proficient Practitioner** | Can easily differentiate between complex situations. | A senior developer spotting which part of a massive system is causing a unique error. |
 | **Level 5** | **Expert Practitioner** | Has deep, implicit, unconscious understanding. | A tech lead who instantly designs a flawless architecture without needing a textbook. |
 
-> **Real-World Example:** You failed a group project. You describe the project, admit you felt angry (Feelings), evaluate that communication was bad, analyse that you didn't check your emails, conclude you should have been more active, and make a plan to set weekly meetings for the next project.
+> **Real-World Example:** An **Expert Practitioner** (Level 5) in a hospital can look at a patient and instantly sense exactly what is wrong without even looking at their chart, whereas a **Novice** (Level 1) student will strictly follow a checklist item by item.
 
 ---
 
@@ -36,6 +36,8 @@ A cycle relying on answering helpful questions about an event:
 4. **Analysis:** Why did things go well or badly? What sense can I make of it?
 5. **Conclusion:** What did I learn? What else could I have done?
 6. **Action Plan:** If it happens again, what will I do differently? How to improve skills?
+
+> **Real-World Example:** You failed a group project. You describe the project, admit you felt angry (Feelings), evaluate that communication was bad, analyse that you didn't check your emails, conclude you should have been more active, and make a plan to set weekly meetings for the next project.
 
 ### The DATA Model (DATA ආකෘතිය)
 | Step | Meaning | Description | Example / Scenario |
