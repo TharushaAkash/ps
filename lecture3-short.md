@@ -79,7 +79,36 @@
 
 ---
 
-## 6. Positive Psychology and Psychological Capital (ධනාත්මක මනෝවිද්‍යාව සහ මනෝවිද්‍යාත්මක ප්‍රාග්ධනය / PsyCap)
+## 6. Attitudes (ආකල්ප)
+Where do attitudes come from? These are the three "roots" of why you feel the way you do:
+
+| Root / Source | Description | Example / Scenario |
+| :--- | :--- | :--- |
+| **Genetics (ජානමය ලක්ෂණ)** | Some parts of our personality and likes/dislikes are actually passed down from our parents. | Inheriting a natural calm temperament from your parents. |
+| **Socialization (සමාජීයකරණය)** | How you were raised and the people you hang out with (friends, family, teachers). | Valuing education highly because your parents and friends always emphasized it. |
+| **Learning (ඉගෙනීම)** | Your own personal experiences. Learning a positive or negative attitude based on what happens to you. | If you tried coding once and loved it, you "learned" a positive attitude toward it. |
+
+### The Two Building Blocks of an Attitude
+Before an attitude is fully formed, it has two main parts:
+
+| Component | Description | Example / Scenario |
+| :--- | :--- | :--- |
+| **Informational / Cognitive (සංජානන)** | These are your **beliefs (විශ්වාසයන්)** or thoughts. | "I believe that cybersecurity is a high-paying job field." |
+| **Affective (චිත්තවේගීය)** | These are your **emotions (හැඟීම්)** or feelings. | "I feel excited when I learn about network security." |
+
+### Attitude vs. Behavior (ආකල්පය සහ හැසිරීම)
+This is a very important distinction regarding how people act:
+
+| Concept | Description | Example / Scenario |
+| :--- | :--- | :--- |
+| **Attitude (ආකල්පය)** | Hidden inside you. It is "measurable in the brain" using technology like fMRI, but others can't see it just by looking at you. | Having a positive attitude toward fitness and health. |
+| **Behavior (හැසිරීම)** | The observable action. It is what you actually do because of your attitude. | **Behavior:** Going to the gym 5 days a week because of your positive attitude. |
+
+> **Real-World Example:** Even if an employee hates their job (**negative Attitude**), they might still smile at customers and arrive on time every day (**observable Behavior**) because they need the salary. Attitude is internal; Behavior is the external action.
+
+---
+
+## 7. Positive Psychology and Psychological Capital (ධනාත්මක මනෝවිද්‍යාව සහ මනෝවිද්‍යාත්මක ප්‍රාග්ධනය / PsyCap)
 **Positive Psychology:** The scientific study of what makes life most worth living. It focuses on building strengths instead of just fixing problems.
 
 ### Positive Psychology States (HERO)
@@ -102,20 +131,21 @@
 
 ---
 
-## 7. Emotional Intelligence and Intelligences (චිත්තවේගීය බුද්ධිය)
+## 8. Emotional Intelligence and Intelligences (චිත්තවේගීය බුද්ධිය)
 **Emotional Intelligence (EI):** The capacity for recognizing our own feelings and those of others, motivating ourselves, and managing emotions.
 
 **Daniel Gardner’s Multiple Intelligences** includes *Logical, Verbal, Interpersonal, Intrapersonal, Visual, Musical, Bodily, Naturalist, Existential*, and *Emotional*.
 
 ---
 
-## 8. Quick Revision Summary Table (කෙටි පුනරීක්ෂණ සාරාංශය)
+## 9. Quick Revision Summary Table (කෙටි පුනරීක්ෂණ සාරාංශය)
 
 | Topic | Key Points to Remember |
 | :--- | :--- |
 | **Cognitive Styles** | **CoSI**: Knowing (facts), Planning (structure), Creating (innovation). |
 | **Attribution Biases** | **Fundamental Bias** (blaming their personality) vs. **Self-Serving Bias** (taking credit for success, blaming others for failure). |
 | **Self-Awareness** | Knowing your **Self-Esteem**, **Locus of Control** (Internal vs External), and **Self-Efficacy**. |
+| **Attitudes** | Come from Genetics, Socialization, and Learning. Composed of Cognitive (beliefs) and Affective (emotions). Attitude (internal) vs. Behavior (external/action). |
 | **Psychological Capital (PsyCap)** | Represents "Who you are." Built on **H**ope, **E**fficacy, **R**esilience, and **O**ptimism (HERO). |
 | **4 Types of Capital** | **Economic** (Access), **Human** (Skills), **Social** (Network), **PsyCap** (Mindset). |
 | **Emotional Intelligence** | Recognizing and managing your own emotions and correctly handling the emotions of others. |
