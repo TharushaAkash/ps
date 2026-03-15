@@ -84,6 +84,8 @@ A powerful tool to identify where you are strong and where the greatest opportun
 - Once internalized, they act as a "compass" guiding your actions.
 - Ex: Integrity (honesty), Kindness, Empathy, Justice, Learning, Health, Family, Freedom, etc.
 
+> **Real-World Example:** If you value Honesty, you will tell your teacher you forgot your homework instead of making up an excuse.
+
 ### Beliefs (විශ්වාසයන්)
 - Constructs we hold to be true, with or without actual proof/empirical evidence.
 - E.g., Believing in a specific religion or believing hard work always leads to success.
