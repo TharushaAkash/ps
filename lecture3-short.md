@@ -132,9 +132,37 @@ This is a very important distinction regarding how people act:
 ---
 
 ## 8. Emotional Intelligence and Intelligences (චිත්තවේගීය බුද්ධිය)
-**Emotional Intelligence (EI):** The capacity for recognizing our own feelings and those of others, motivating ourselves, and managing emotions.
+**Emotional Intelligence (EI):** The capacity for recognizing our own feelings and those of others, motivating ourselves, and managing emotions well in ourselves and in our relationships.
 
-**Daniel Gardner’s Multiple Intelligences** includes *Logical, Verbal, Interpersonal, Intrapersonal, Visual, Musical, Bodily, Naturalist, Existential*, and *Emotional*.
+### Types of Primary Emotions (ප්‍රාථමික චිත්තවේගයන්)
+| Emotion Type | Specific Emotions | Example Descriptors |
+| :--- | :--- | :--- |
+| **Positive (ධනාත්මක)** | Love / Affection | Acceptance, adoration, devotion, infatuation |
+| | Happiness / Joy | Cheerfulness, bliss, delight, amusement, thrill, euphoria |
+| | Surprise | Amazement, wonder, astonishment, shock |
+| **Negative (ඍණාත්මක)** | Fear | Anxiety, alarm, apprehension, dread, terror |
+| | Sadness | Grief, disappointment, sorrow, despair, suffering |
+| | Anger | Outrage, wrath, indignation, hostility, irritability |
+| | Disgust | Contempt, disdain, revulsion, distaste |
+| | Shame | Guilt, remorse, regret, embarrassment, humiliation |
+
+### Daniel Gardner’s Multiple Intelligences (ගාඩ්නර්ගේ බහුවිධ බුද්ධිය)
+Gardner proposed that humans do not have just one single "IQ", but multiple different types of intelligences:
+
+| Intelligence | Characteristics | Real-World Example |
+| :--- | :--- | :--- |
+| **1. Logical/mathematical** | Processes analytically, calculates, quantifies. | An engineer easily solving complex calculus equations. |
+| **2. Verbal/linguistic** | Thinks through words, uses words to nurture. | A persuasive lawyer winning a case using a powerful speech. |
+| **3. Interpersonal** | Understands others, processes through interaction, empathizes. | A successful counselor who easily connects with patients' feelings. |
+| **4. Intrapersonal** | Thinks in quiet, likes to be alone, highly goal-oriented. | A solitary writer deeply understanding their own personal goals. |
+| **5. Visual/spatial** | Uses mental models, thinks three-dimensionally. | An architect easily picturing a 3D building from a flat blueprint. |
+| **6. Musical** | Sensitivity to pitch, melody, rhythm. | A musician perfectly re-playing a song after hearing it once. |
+| **7. Bodily/kinesthetic** | Physical movement, involves the whole body. | A professional dancer learning a complex routine instantly. |
+| **8. Naturalist (New)** | Need to be with/survive in nature, categorizes nature. | A biologist easily identifying hundreds of different plant species. |
+| **9. Existential (New)** | Knowing why you are here, personal mission. | A philosopher contemplating the deep meaning of human life. |
+| **10. Emotional (New)** | Emotionally mature, recognizes own anger, reacts to emotions of self/others. | A manager keeping perfectly calm while dealing with an angry customer. |
+
+> **Real-World Example (Emotional Intelligence):** During the Apollo 11 Moon Landing, NASA didn't just need advanced engineering (**Logical Intelligence**); they needed to inspire and manage the unity and feelings of the entire world (**Emotional Intelligence**), achieved powerfully through Neil Armstrong's famous quote.
 
 ---
 
@@ -149,3 +177,4 @@ This is a very important distinction regarding how people act:
 | **Psychological Capital (PsyCap)** | Represents "Who you are." Built on **H**ope, **E**fficacy, **R**esilience, and **O**ptimism (HERO). |
 | **4 Types of Capital** | **Economic** (Access), **Human** (Skills), **Social** (Network), **PsyCap** (Mindset). |
 | **Emotional Intelligence** | Recognizing and managing your own emotions and correctly handling the emotions of others. |
+| **Multiple Intelligences** | Gardner's theory that humans have 10 types of intelligence (e.g., Logical, Musical, Interpersonal, Kinesthetic). |
