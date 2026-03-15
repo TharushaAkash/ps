@@ -93,7 +93,7 @@ A powerful tool to identify where you are strong and where the greatest opportun
 > **Real-World Example:** Believing that eating with your hands is the "correct" way to enjoy a meal based on your culture.
 
 ### Attitudes (ආකල්ප)
-- A mindset or tendency to act in a particular way based on experience and temperament.
+- A mindset or tendency(නැඹුරුතාවය) to act in a particular way based on experience and temperament.
 - **3 Components:** Affect (feeling), Cognition (belief/thought), and Behavior (action).
 
 | Attitude Type | Characteristics | Example / Scenario |
