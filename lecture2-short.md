@@ -79,6 +79,9 @@ A powerful tool to identify where you are strong and where the greatest opportun
 5. Your **Habits** shape your **Character**.
 6. Your **Character** shapes your **Destiny**.
 
+> **Real-World Example:** If you have a **Value** of health, you **believe** exercise is good. This creates a positive **attitude** toward the gym, leading to the **behaviour** of running. Running becomes a **habit,** which builds a **disciplined** character, leading to a long and healthy **destiny.**
+
+
 ### Values (වටිනාකම්)
 - Principles that help you decide what is right and wrong. 
 - Once internalized, they act as a "compass" guiding your actions.
