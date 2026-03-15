@@ -82,9 +82,26 @@ A powerful tool to identify where you are strong and where the greatest opportun
 ### Values (වටිනාකම්)
 - Principles that help you decide what is right and wrong. 
 - Once internalized, they act as a "compass" guiding your actions.
-- Ex: Integrity (honesty), Kindness, Empathy, Justice, Learning, Health, Family, Freedom, etc.
+- **Personal Development (පුද්ගල සංවර්ධනය)** is the ongoing process of self-improvement guided by these values.
 
-> **Real-World Example:** If you value Honesty, you will tell your teacher you forgot your homework instead of making up an excuse.
+#### Key Core Values (මූලික වටිනාකම්)
+Here is the list of fundamental values that shape human character:
+
+| Value | Meaning / Description | Example / Scenario |
+| :--- | :--- | :--- |
+| **Integrity & Honesty (අඛණ්ඩතාව සහ අවංකකම)** | Being truthful, reliable, and acting with moral principles. | Returning a lost wallet with all the money inside. |
+| **Kindness, Love & Empathy (කරුණාව, ආදරය සහ සහකම්පනය)** | Caring for others, emotional attachment, and sharing feelings. | Helping a struggling classmate understand a difficult lesson. |
+| **Justice & Respect (යුක්තිය සහ ගෞරවය)** | Believing in fairness, equal rights, and valuing everyone's dignity. | Standing up for a co-worker who is being treated unfairly. |
+| **Courage, Ambition & Adventure (ධෛර්යය, අභිලාෂය සහ ත්‍රාසජනකත්වය)** | Being brave, desiring success, and seeking new exciting challenges. | Starting your own tech startup despite the high risks. |
+| **Responsibility & Loyalty (වගකීම සහ පක්ෂපාතිත්වය)** | Taking ownership of actions and staying faithful to commitments. | Admitting you made a mistake leading to a bug, without blaming others. |
+| **Patience & Humility (ඉවසීම සහ නිහතමානිකම)** | Tolerating trouble calmly and remaining modest about your abilities. | Calmly fixing code for hours without complaining or showing off. |
+| **Generosity & Gratitude (ත්‍යාගශීලීත්වය සහ කෘතඥතාව)** | Sharing resources and appreciating the good things in life. | Thanking your mentor and sharing your study notes with juniors. |
+| **Learning & Creativity (ඉගෙනීම සහ නිර්මාණශීලීත්වය)** | Valuing growth, self-improvement, originality, and innovation. | Learning a new programming language and building a unique app. |
+| **Health, Family & Friends (සෞඛ්‍යය, පවුල සහ මිතුරන්)** | Caring for physical/mental well-being and important relationships. | Going to the gym regularly and spending weekends with loved ones. |
+| **Financial Security (මූල්‍ය ආරක්ෂාව)** | Ensuring stability and protection of one's financial resources. | Saving a portion of your monthly salary for emergencies. |
+| **Freedom & Spirituality (නිදහස සහ ආධ්‍යාත්මිකත්වය)** | Acting without restraint and finding a higher purpose or meaning in life. | Choosing a flexible freelance career to have control over your own time. |
+
+> **Real-World Example:** If you highly value **Honesty**, you will tell your teacher you forgot your homework instead of making up a fake excuse.
 
 ### Beliefs (විශ්වාසයන්)
 - Constructs we hold to be true, with or without actual proof/empirical evidence.
