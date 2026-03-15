@@ -47,7 +47,7 @@ A cycle relying on answering helpful questions about an event:
 | **T** | **Theorise (න්‍යායගත කිරීම)** | Suggest ways to improve and move forward. | "If I practice in front of a mirror 3 times, I will feel much more confident." |
 | **A** | **Act (ක්‍රියා කිරීම)** | Try out the new theory to see how it works. | Practicing the speech in front of the mirror and then delivering it to the class. |
 
-> **Real-World Example:** If a software release completely fails, the team will use the **DATA Model** or **Gibb's Cycle** in a "post-mortem" meeting to find out exactly why it failed (**Analyse**) and how to stop it next time (**Act**).
+> **Real-World Example:** Your computer is slow **(Describe)**. You find it has too many background apps **(Analyse)**. You think closing them will help **(Theorise)**. You close the apps and check the speed **(Act).**
 
 ---
 
