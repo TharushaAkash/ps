@@ -2,59 +2,33 @@
 
 "The only journey is the journey within." - Knowing yourself is the beginning of all wisdom.
 
-## 1. IT2160 Module Overview (IT2160 මොඩියුලයේ දළ විශ්ලේෂණය)
-The **Professional Skills (වෘත්තීය කුසලතා)** module is designed to make students not just technically good, but professionally mature and ethically grounded.
 
-### IT2160 Learning Structure
-| Component | Purpose / Description | Example / Scenario |
-| :--- | :--- | :--- |
-| **Lectures (දේශන)** | Introduce standard concepts and theoretical frameworks to students. | Learning the theory of how to create a good self-development plan. |
-| **Case Studies (සිද්ධි අධ්‍යයන)** | Apply learned theories directly to real-world, practical scenarios. | Investigating why a massive real-world software project completely failed. |
-| **Peer Evaluations (සම වයසේ මිතුරන්ගේ ඇගයීම)** | Build objective judgment and feedback skills by grading classmates. | Giving constructive feedback to another group on how they can improve their presentation. |
-| **Group Activities (කණ්ඩායම් වැඩ)** | Build strong communication and teamwork skills. | Working effortlessly with 5 other members to build a unified presentation. |
-| **Reflective Practice (පරාවර්තන පුහුණුව)** | Anchor learning to personal growth by looking back at experiences. | Admitting you were too nervous during a speech and planning to practice more next time. |
+## 2. Self-Awareness & Social Science (ස්වයං-අවබෝධය සහ සමාජ විද්‍යාව)
+**Self-Awareness (ස්වයං-අවබෝධය)** is the ability to see yourself clearly and objectively through reflection and introspection (examining your own thoughts).
 
-> **Real-World Example:** In the real IT industry, you don't just write code (**Lectures**); you have to solve sudden business problems (**Case Studies**), work smoothly with a team (**Group Activities**), and review other developers' code (**Peer Evaluation**).
+It is a core study area of **Social Science (සමාජ විද්‍යාව)**. 
 
----
+### Social Science vs. Physical Science
+| Science Type | What it Studies | Description | Example |
+| :--- | :--- | :--- | :--- |
+| **Physical Science (භෞතික විද්‍යාව)** | Atoms, molecules, biology | All matter (living and non-living) is composed of basic ingredients. | Physics, Chemistry, Biology. |
+| **Social Science (සමාජ විද්‍යාව)** | Human Behavior and Relationships | Human behavior cannot be understood using physical science alone. It investigates how people interact. | Sociology, Psychology, Economics. |
 
-## 2. Case Studies and Peer Evaluation (සිද්ධි අධ්‍යයන සහ සම වයසේ මිතුරන්ගේ ඇගයීම)
-Case studies simulate the real experiences of IT analysts and managers. They develop **Critical Thinking (විවේචනාත්මක චින්තනය)**, ethical reasoning, and **Conflict Resolution (ගැටුම් නිරාකරණය)**.
-
-### The Case Study Workflow (සිද්ධි අධ්‍යයන කාර්ය ප්‍රවාහය)
-| Step | Action | Example / Scenario |
-| :--- | :--- | :--- |
-| **1. Read (කියවීම)** | Read and deeply analyze the case to find the real underlying problem. | Reading a case about a hacked company and realizing the issue was poor employee training, not just a weak firewall. |
-| **2. Discuss (සාකච්ඡා කිරීම)** | Share ideas and discuss insights with your team. | Brainstorming 3 possible solutions with your group of 6 members. |
-| **3. Build (ගොඩනැගීම)** | Build your slides and logically structure your arguments. | Creating a clean, professional PowerPoint summarizing your solution. |
-| **4. Present (ඉදිරිපත් කිරීම)** | Present clearly to the class using a storytelling structure. | Delivering the presentation confidently and answering audience questions. |
-| **5. Evaluate (ඇගයීම)** | Receive and give fair peer evaluations. | Listening to feedback from Batch B on how to improve your eye contact. |
-| **6. Reflect (පරාවර්තනය)** | Reflect on what went wrong and improve for next time. | Realizing you spoke too fast and deciding to speak slower in the future. |
-
-> **Real-World Example:** Evaluating peers actively in class is exactly like conducting a strict "Performance Review" for your co-workers in a real software company.
+> **Real-World Example:** Trying to understand *why* a team failed a project cannot be solved by looking through a microscope (Physical Science). You need to understand their behavior and communication (Social Science).
 
 ---
 
-## 3. Group Work and Leadership (කණ්ඩායම් වැඩ සහ නායකත්වය)
-Groups consist of 6 members to ensure fundamentally diverse ideas. 
+## 3. Adaptation, Identity, and the Search for Meaning (අනුවර්තනය, අනන්‍යතාවය සහ අර්ථය සෙවීම)
+The lecture uses an inspiring video about a penguin to symbolize the human struggle between doing what is **expected** vs. what is **meaningful**.
 
-### Expectations of a Group Leader (කණ්ඩායම් නායකයෙකුගේ වගකීම්)
-A leader must **facilitate** (guide) the team, not **dominate** (control) it.
-- **Scheduling** meetings and managing deadlines.
-- **Mediating** conflicts between team members.
-- Ensuring **equal participation** from everyone.
+- **The Feeding Grounds / Returning to the Colony (The Normal Path):** Represents survival, routine, conformity, society, and playing it safe.
+- **Heading for the Mountains (The Unconventional Path):** Represents choosing purpose over comfort, personal calling, risk, and self-discovery.
 
-### Key Challenges Students Face (සිසුන් මුහුණ දෙන ප්‍රධාන අභියෝග)
-- **Procrastination (කල් දැමීම)** and poor planning.
-- Overdependence on 1 or 2 stronger members to do all the work.
-- Fear of public speaking or presenting.
+Society always asks "Why take the risky path?" But the answer is internal and not logical. The lesson is: **Trust the inner call. Live fully. Become who you're meant to be!**
 
-> **Real-World Example:** If two members are fighting over what font to use, a good leader calmly listens to both and finds a quick compromise so the presentation isn't delayed.
+> **Real-World Example:** Society expects you to become a standard Doctor or Engineer (Going to the Colony) because it's safe. But you decide to become an independent Game Developer because it's your passion (Heading for the Mountains).
 
 ---
-
-## 4. Self-Awareness (ස්වයං-අවබෝධය)
-**Self-Awareness (ස්වයං-අවබෝධය)** is the ability to see yourself clearly and objectively through reflection and introspection (examining your own thoughts). It is a study area of **Social Science (සමාජ විද්‍යාව)** (how people interact), unlike Physical Science (atoms and biology).
 
 ### Five Core Aspects of Self-Awareness
 | Aspect | Description | Example / Scenario |
@@ -69,7 +43,7 @@ A leader must **facilitate** (guide) the team, not **dominate** (control) it.
 
 ---
 
-## 5. Personal Development Planning - PDP (පුද්ගල සංවර්ධන සැලසුම්කරණය)
+## 4. Personal Development Planning - PDP (පුද්ගල සංවර්ධන සැලසුම්කරණය)
 **PDP** is the process of improving yourself through conscious habits and plans. Since the IT industry changes rapidly, you must continuously develop yourself or you will completely become obsolete (outdated).
 
 ### The Four Stages of PDP (PDP හි අදියර හතර)
@@ -84,13 +58,13 @@ A leader must **facilitate** (guide) the team, not **dominate** (control) it.
 
 ---
 
-## 6. Quick Revision Summary Table (කෙටි පුනරීක්ෂණ සාරාංශය)
+## 5. Quick Revision Summary Table (කෙටි පුනරීක්ෂණ සාරාංශය)
 
 | Topic | Key Points to Remember |
 | :--- | :--- |
 | **IT2160 Module** | Mixes Lectures, Case Studies, and Peer Evaluations to create mature, ethical IT professionals. |
-| **Case Study Workflow** | 1. Read -> 2. Discuss -> 3. Build -> 4. Present -> 5. Evaluate -> 6. Reflect. |
-| **Group Leadership** | Leaders must facilitate (help) the group, mediate conflicts, and ensure equal work, avoiding procrastination. |
+| **Social vs Physical Science** | Physical studies materials/atoms. Social investigates complex human behavior/interactions. |
+| **The Penguin Analogy** | To find meaning, you sometimes must trust your inner calling and leave the comfortable, safe colony. |
 | **Self-Awareness** | Seeing yourself clearly. Based on 5 aspects: Self-evaluation, Personality, Values, Cognitive Style, and Emotional Intelligence. |
 | **PDP (Personal Development)** | Improving oneself specifically so you don't become obsolete in the fast changing IT industry. |
 | **Four Stages of PDP** | **Reflect** (Where am I?), **Plan** (Where to go?), **Act** (What to do?), **Review** (How did I do?). |
